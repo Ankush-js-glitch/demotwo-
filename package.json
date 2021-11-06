@@ -1,0 +1,22 @@
+{
+  "name": "demotwo-",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankush-js-glitch/demotwo-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankush-js-glitch/demotwo-/issues"
+  },
+  "homepage": "https://github.com/Ankush-js-glitch/demotwo-#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
