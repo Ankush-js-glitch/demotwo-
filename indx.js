@@ -3,6 +3,8 @@ var mineSalary= readlineSync.question('what is your salary');
 console.log("my salary  is:" + mineSalary)
 var score = 0
 
+
+
 if(mineSalary>=40000)
 {
   console.log('you are right ') 
